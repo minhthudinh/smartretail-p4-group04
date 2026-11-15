@@ -2,7 +2,7 @@
 
 | ID | Task | Function / file | Assignee | Reviewer | Flowchart | PR |
 |---|---|---|---|---|---|---|
-| T01 | Repo skeleton, structs, README | .gitignore, PR template, src/main.cpp, README.md | Thư | Kha | not needed | |
+| T01 | Repo skeleton, structs, README | .gitignore, PR template, src/main.cpp, README.md | Thư | Thy | not needed | #1 |
 | T02 | Best promotion and final price (core function) | bestPromotion(), finalPrice() | Thư | Kha | yes | |
 | T03 | Menu loop and program entry | showMenu(), main() | Thư | Kha | yes | |
 | T04 | String and number utilities | splitLine(), toInt(), toLower(), formatMoney() | Kha | Thy | yes | |
