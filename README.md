@@ -1,4 +1,4 @@
-# smartretail--P4--group-4
+# smartretail-p4-group04
 
 | ID | Task | Function / file | Assignee | Reviewer | Flowchart | PR |
 |---|---|---|---|---|---|---|
