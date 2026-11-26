@@ -12,6 +12,6 @@
 | T08 | Key 1: search product | searchProduct() | Kha | Thư | yes | |
 | T09 | Keys 2, 3: inventory, promotion | checkInventory(), stockStatus(), checkPromotion() | An | Kha | yes | |
 | T10 | Sort and recursive binary search | sortProducts(), findProduct() | Thy | Thư | yes | |
-| T11 | Key 4: checkout | checkout(), confirm() | Thư | Thy | yes | |
+| T11 | Key 4: checkout | checkout(), confirm() | Kha | Thy | yes | |
 | T12 | Slides | docs/slides.pdf | An | Kha | not needed | |
 | T13 | Test cases TC01–TC07 | tests/test_cases.md, tests/expected/ | Thy | An | not needed | |
