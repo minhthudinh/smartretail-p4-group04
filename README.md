@@ -1,3 +1,5 @@
+## Task assignment table
+
 | ID | Task | Function / file | Assignee | Reviewer | Flowchart | PR |
 |----|------|-----------------|----------|----------|-----------|----|
 | T01 | Repo skeleton, structs, README | .gitignore, PR template, src/main.cpp, README.md | Thư | Kha | not needed | #1 |
